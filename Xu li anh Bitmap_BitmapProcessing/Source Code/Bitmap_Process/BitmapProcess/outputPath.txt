@@ -1,0 +1,1 @@
+../../../Image/minhtam_GrayScale.bmp
