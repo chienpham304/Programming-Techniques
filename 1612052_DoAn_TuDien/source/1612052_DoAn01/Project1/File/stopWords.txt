@@ -1,0 +1,66 @@
+﻿@bị
+@bị đau
+@bị ốm
+@cái
+@con
+@cây
+@đau
+
+@không
+@không thể
+@không được
+@không được phép
+@không cho phép
+@quả
+@trái
+@ở
+@trên
+@trong
+
+@vài con
+@vài cái
+@vài ba cái
+
+@một
+@một trăm
+@một ngàn
+@một vạn
+@một triệu
+@một tỉ
+@một đống
+@một cái
+@một vài
+
+@đi
+
+@hai
+@hai trăm
+@hai ngàn
+@hai vạn
+@hai triệu
+@hai tỉ
+@hai đống
+
+@ba
+@hai trăm
+@hai ngàn
+@hai vạn
+@hai triệu
+@hai tỉ
+@bốn
+@năm
+@sáu
+@bảy
+@tám
+@chín
+@mười
+@mười một
+@một trăm
+@một ngàn
+@một vạn
+@một triệu
+@một tỉ
+@một đống
+@một cục
+@
+
