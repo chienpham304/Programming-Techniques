@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Balo_dang_1", "Balo_dang_1\Balo_dang_1.vcxproj", "{D4C53860-C439-490A-9DAD-EE7684E6F0E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chia_Keo", "Chia_Keo\Chia_Keo.vcxproj", "{A89A00A0-4489-49E3-B96B-C7A1FC29A9CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day_con_tong_S", "Day_con_tong_S\Day_con_tong_S.vcxproj", "{8DF0C281-1816-4842-9DFD-EE0BEBA7BEB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Market", "Market\Market.vcxproj", "{8E3F1D3F-6A99-4ECD-B7E7-5790BB72368D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C53860-C439-490A-9DAD-EE7684E6F0E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4C53860-C439-490A-9DAD-EE7684E6F0E2}.Debug|Win32.Build.0 = Debug|Win32
+		{D4C53860-C439-490A-9DAD-EE7684E6F0E2}.Release|Win32.ActiveCfg = Release|Win32
+		{D4C53860-C439-490A-9DAD-EE7684E6F0E2}.Release|Win32.Build.0 = Release|Win32
+		{A89A00A0-4489-49E3-B96B-C7A1FC29A9CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A89A00A0-4489-49E3-B96B-C7A1FC29A9CB}.Debug|Win32.Build.0 = Debug|Win32
+		{A89A00A0-4489-49E3-B96B-C7A1FC29A9CB}.Release|Win32.ActiveCfg = Release|Win32
+		{A89A00A0-4489-49E3-B96B-C7A1FC29A9CB}.Release|Win32.Build.0 = Release|Win32
+		{8DF0C281-1816-4842-9DFD-EE0BEBA7BEB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DF0C281-1816-4842-9DFD-EE0BEBA7BEB8}.Debug|Win32.Build.0 = Debug|Win32
+		{8DF0C281-1816-4842-9DFD-EE0BEBA7BEB8}.Release|Win32.ActiveCfg = Release|Win32
+		{8DF0C281-1816-4842-9DFD-EE0BEBA7BEB8}.Release|Win32.Build.0 = Release|Win32
+		{8E3F1D3F-6A99-4ECD-B7E7-5790BB72368D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E3F1D3F-6A99-4ECD-B7E7-5790BB72368D}.Debug|Win32.Build.0 = Debug|Win32
+		{8E3F1D3F-6A99-4ECD-B7E7-5790BB72368D}.Release|Win32.ActiveCfg = Release|Win32
+		{8E3F1D3F-6A99-4ECD-B7E7-5790BB72368D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
