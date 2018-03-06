@@ -1,0 +1,3 @@
+- mở màn hình cmd lên chỉnh properties như hình "cosole_setting.png" và cosole_setting_2.png là ok :D
+
+Have fun :D

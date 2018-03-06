@@ -1,0 +1,34 @@
+void diChuyen(char**map, phamvi&p,int&FrontWay,int&RearWay,Queue &q,bool&gameOver)
+{
+	map[p.cuoi.x][p.cuoi.y] = ' ';
+	//Cập nhật vị trí đầu
+	switch (FrontWay)//
+	{
+		case 1:
+			if (map[p.dau.x-1][p.dau.y] == '*')
+				gameOver = true;
+			p.dau.x--;
+			break;//đi lên
+		case 2:
+			if (map[p.dau.x + 1][p.dau.y] == '*')
+				gameOver = true; 
+			p.dau.x++; 
+			break;//đi xuống
+		case 3:
+			if (map[p.dau.x][p.dau.y-1] == '*')
+				gameOver = true; 
+			p.dau.y--; 
+			break;//qua trái
+		case 4:
+			if (map[p.dau.x][p.dau.y+1] == '*')
+				gameOver = true; 
+			p.dau.y++; 
+			break;//qua phai
+	}
+	//cập nhật đầu
+	map[p.dau.x][p.dau.y] = '*';
+	//kiểm tra đầu đụng tường
+	if (p.dau.x == 0 || p.dau.x == MaxDong || p.dau.y == 0 || p.dau.y == MaxCot)
+		gameOver = true;//game over
+	
+}

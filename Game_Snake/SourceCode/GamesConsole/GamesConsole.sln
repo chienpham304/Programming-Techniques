@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demoGraphic", "demoGraphic\demoGraphic.vcxproj", "{6298353E-5B7B-4B81-BC94-FD296D9F4380}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "layMaMau", "layMaMau\layMaMau.vcxproj", "{2F5A69C5-8F0C-4E25-91EE-E9A55352C0CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShakeHunter", "ShakeHunter\ShakeHunter.vcxproj", "{80D87921-0F71-4C2F-8021-FFF2B9420AD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MineSweeper", "MineSweeper\MineSweeper.vcxproj", "{80BB12CD-47C8-4100-B9D3-E4AD90553FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6298353E-5B7B-4B81-BC94-FD296D9F4380}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6298353E-5B7B-4B81-BC94-FD296D9F4380}.Debug|Win32.Build.0 = Debug|Win32
+		{6298353E-5B7B-4B81-BC94-FD296D9F4380}.Release|Win32.ActiveCfg = Release|Win32
+		{6298353E-5B7B-4B81-BC94-FD296D9F4380}.Release|Win32.Build.0 = Release|Win32
+		{2F5A69C5-8F0C-4E25-91EE-E9A55352C0CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F5A69C5-8F0C-4E25-91EE-E9A55352C0CA}.Debug|Win32.Build.0 = Debug|Win32
+		{2F5A69C5-8F0C-4E25-91EE-E9A55352C0CA}.Release|Win32.ActiveCfg = Release|Win32
+		{2F5A69C5-8F0C-4E25-91EE-E9A55352C0CA}.Release|Win32.Build.0 = Release|Win32
+		{80D87921-0F71-4C2F-8021-FFF2B9420AD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80D87921-0F71-4C2F-8021-FFF2B9420AD6}.Debug|Win32.Build.0 = Debug|Win32
+		{80D87921-0F71-4C2F-8021-FFF2B9420AD6}.Release|Win32.ActiveCfg = Release|Win32
+		{80D87921-0F71-4C2F-8021-FFF2B9420AD6}.Release|Win32.Build.0 = Release|Win32
+		{80BB12CD-47C8-4100-B9D3-E4AD90553FAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80BB12CD-47C8-4100-B9D3-E4AD90553FAF}.Debug|Win32.Build.0 = Debug|Win32
+		{80BB12CD-47C8-4100-B9D3-E4AD90553FAF}.Release|Win32.ActiveCfg = Release|Win32
+		{80BB12CD-47C8-4100-B9D3-E4AD90553FAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
